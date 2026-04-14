@@ -1,4 +1,4 @@
 ## Messaging app
-This is a simple messaging app coding in Java using scanner
+This is a simple messaging app that is coded in Java using scanner
 
 ## YouTube 
